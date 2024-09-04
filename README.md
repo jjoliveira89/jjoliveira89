@@ -3,7 +3,7 @@ Boas vindas ao meu perfil 💙💙
 
 Meu nome é Juliana Aparecida PIres
 
-Estou estudando na Alura
+Estou estudando na  Alura
 
 Estou me desenvolvendo na linguagem JavaScript
 
